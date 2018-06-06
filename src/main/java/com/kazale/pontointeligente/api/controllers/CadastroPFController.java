@@ -33,7 +33,7 @@ import com.kazale.pontointeligente.api.utils.PasswordUtils;
 public class CadastroPFController {
 
 	private static final Logger log = LoggerFactory.getLogger(CadastroPFController.class);
-	
+	//teste	
 	@Autowired
 	private EmpresaService empresaService;
 	
